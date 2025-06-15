@@ -1,5 +1,4 @@
 <h1 align="center"> Exam Score Prediction Model </h1>
-# Exam Score Prediction Model
 
 ## 📚 About The Project
 This project is part of my data science learning journey where I built a machine learning model to predict student exam scores. The model takes into account various factors that might influence academic performance and provides score predictions.
