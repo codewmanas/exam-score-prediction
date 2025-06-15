@@ -24,3 +24,19 @@ This project is part of my data science learning journey where I built a machine
 ## 🚀 Getting Started
 
 ### Prerequisites
+- Python 3.6+
+- Required Python libraries (see `requirements.txt`)
+
+### Installation
+1. Clone the repository
+   ```sh
+   git clone https://github.com/manaskolaskar/exam-prediction.git
+   ```
+2. Install the required packages
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit app
+   ```sh
+   streamlit run app.py
+   ```
